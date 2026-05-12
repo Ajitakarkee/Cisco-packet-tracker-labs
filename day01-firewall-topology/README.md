@@ -17,3 +17,12 @@ Secure branch networks (New York & Tokyo) using firewalls.
 ## Results
 - Branch-to-branch communication successful.
 - Attacker traffic blocked by firewall.
+
+
+## Screenshots
+
+### Firewall Topology Diagram
+![Firewall Topology](firewall-topology.jpg)
+
+### Packet Tracer Simulation
+![Packet Tracer Simulation](packet-tracer-simulation.png)
