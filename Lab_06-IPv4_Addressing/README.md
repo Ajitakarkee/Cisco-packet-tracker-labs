@@ -33,4 +33,4 @@
    - Manually assign IPs (subnet mask auto-fills based on class).  
    - Test connectivity with `ping` between PCs.
 
-![Lab 7 Topology](Lab_7.png)
+![Lab 6 IPv4 Addressing ](Lab_6.png)
