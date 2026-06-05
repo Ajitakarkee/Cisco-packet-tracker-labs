@@ -15,4 +15,4 @@ Finally, the `clear mac address-table dynamic` command is used to reset the MAC 
 ---
 
 
-![Ethernet Switching Lab](lab_5.png)
+![Ethernet Switching Lab](Lab_5.png)
