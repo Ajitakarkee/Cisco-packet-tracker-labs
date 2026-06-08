@@ -10,3 +10,7 @@ Cisco Packet Tracer labs for networking practice
 -[Lab 4: Basic Devices Security](Lab_04-Basic%20Device%20Security/)
 
 -[Lab 5: Ethernet LAN Switching](Lab_05-Ethernet_Switching/)
+
+## Projects
+
+-[ Hospital Network system](Hospital%20management%20system/)
