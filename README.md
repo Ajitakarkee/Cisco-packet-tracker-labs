@@ -16,4 +16,4 @@ Cisco Packet Tracer labs for networking practice
 
 ## Projects
 
--[ Hospital Network system](Hospital%20management%20system/)
+-[ Hospital Network system](Projects/Hospital%20management%20system/)
