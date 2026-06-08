@@ -4,6 +4,7 @@
 
 ## Description:
 The output confirms that VLAN 10 (Reception), VLAN 20 (Admin), and VLAN 30 (Doctors) were successfully created and the switch ports were assigned to their respective VLANs.
+
 ![Figure 1: VLAN Configuration Verification](HMS1.png)
 
 
